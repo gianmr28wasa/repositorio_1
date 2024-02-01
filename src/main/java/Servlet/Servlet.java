@@ -49,7 +49,7 @@ public class Servlet extends HttpServlet {
 		System.out.println("POST");
 		request.setCharacterEncoding("UTF-8");
 		response.setCharacterEncoding("UTF-8");
-		
+		//asdko
 		int prueba = 0;
 		
 		PrintWriter out = response.getWriter();
