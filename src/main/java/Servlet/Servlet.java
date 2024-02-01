@@ -51,6 +51,7 @@ public class Servlet extends HttpServlet {
 		response.setCharacterEncoding("UTF-8");
 		
 		int prueba = 0;
+		boolean test = false; //asd
 		
 		PrintWriter out = response.getWriter();
 		Response responseApi = new Response();
